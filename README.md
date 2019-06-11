@@ -15,12 +15,6 @@ Application works with official bitcoin test network (TestNet3) and contains nex
 * Generating your wallet address QR code
 * Scan recipient wallet address QR code
 
-# Screenshots
-<img src="screenshots/loading.png" alt="Initializaqtion" width="288" height="512">&nbsp;
-<img src="screenshots/home.png" alt="Main screen" width="288" height="512">&nbsp;
-<img src="screenshots/free.png" alt="Get coins" width="288" height="512">
-<img src="screenshots/scan.png" alt="Scan QR" width="288" height="512">
-
 # Service Information
 SDK tutorial https://bitcoinj.github.io/getting-started-java
 
